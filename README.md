@@ -7,7 +7,7 @@ Faculty of Science University of Copenhagen.
 
 Handed in: May 31. 2024.
 
-Below image showcases the physical robot setup and a video deom is availiable [here](https://www.youtube.com/watch?v=Sc_tomtOb3E&ab_channel=MadsDaugaard).
+Below image showcases the physical robot setup and a video demo is availiable [here](https://www.youtube.com/watch?v=Sc_tomtOb3E&ab_channel=MadsDaugaard).
 ![Robot example](GithubImgs/robotshowcase.png)
 
 # Requirements
