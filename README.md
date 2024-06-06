@@ -3,7 +3,7 @@ This repository contains all sharable code/data from our master thesis.
 
 By Mads Daugaard \& Emil Riis-Jacobsen.
 
-Faculty of Science University of Copenhagen.
+Faculty of Science, University of Copenhagen.
 
 Handed in: May 31. 2024.
 
@@ -29,7 +29,7 @@ conda env create -f environment.yml --name <new_env_name>
 
 
 
-# Files overview
+# File overview
 ## Important code/model files
  * motor_controller.ino                                                 - Arduino code for controling the system
  * motor_ui.ipynb                                                       - UI and host computer protocol/communication with the microcontroller
@@ -64,5 +64,5 @@ conda env create -f environment.yml --name <new_env_name>
 
 ## Prototypes
 *  \Prototypes\Motorcontrol     - Various motor control setups and UI versions
-*  \Prototypes\Simulation       - Various simulations setups for the CSPR system      
+*  \Prototypes\Simulation       - Various simulation setups for the CSPR system      
 *  \Prototypes\Tracking         - Various ml/tracking files
