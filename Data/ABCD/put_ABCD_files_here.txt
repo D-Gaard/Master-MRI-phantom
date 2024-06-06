@@ -1,0 +1,2 @@
+Put any ABCD files here with the format [n,6], where each row is structured as: 
+x_trans, y_trans, z_trans, x_rot, y_rot, z_rot
